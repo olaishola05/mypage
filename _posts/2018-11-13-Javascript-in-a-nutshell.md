@@ -1,4 +1,4 @@
-title: "Javascript-In-A-Nutshell"
+title: "Javascript In A Nutshell"
 date: 2018-11-13
 ---
 
